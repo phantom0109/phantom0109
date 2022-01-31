@@ -1,12 +1,18 @@
-# Senior Blockchain Developer
+# **<div align="center">👋 Senior Blockchain Engineer</div>**  
+  
 
-- 👋 Hi, I am a senior blockchain developer with experience in building Decentralized Applications on Ethereum.
-		<br>
-    Specifically,I have expertise in smart contract and web3 integration.
-		</br>
-- 👀 I’m interested in blockchain world.
-- 🌱 Passionate about development and coding.
-- 💞️ I’m looking to collaborate on Blockchain development.
+- 👈 I have expertise in smart contract and web3 integration.  
+  
+
+- 👀 I’m interested in blockchain world.  
+  
+
+- 🌱 Passionate about development and coding.  
+  
+
+- 💞️ I’m looking to collaborate on Blockchain development.  
+  
+
 
 ## Languages and Tool
 
@@ -29,3 +35,37 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
+<br/>
+
+## Github  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=phantom0109&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantom0109&hide_border=true&layout=compact" align="right" /></div>
+
+</td></tr></table>  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
+  
+
+<a href="https://github.com/https://github.com/phantom0109/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18081251/hayate-kimura" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hayatekimura" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+<br/>  
+
+
+<br />
+
