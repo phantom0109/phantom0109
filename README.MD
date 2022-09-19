@@ -38,10 +38,6 @@
 <br/>
 
 ## Github  
-<table><td valign="top" width="10%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=phantom0109&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
 
 
 <br/>  
@@ -49,7 +45,11 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
   
 
-
+<h2 align="center">⚡ Stats</h2>
+<br>
+<p align=center>
+  <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
   
 
 <br/>  
