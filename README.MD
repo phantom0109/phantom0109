@@ -1,5 +1,11 @@
-# **<div align="center">👋 Senior Blockchain Engineer</div>**  
-  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Blockchain+Engineer&center=true&size=28">
+  </a>
+</h1>
 
 - 👈 I have expertise in smart contract and web3 integration.  
   
@@ -12,6 +18,9 @@
 
 - 💞️ I’m looking to collaborate on Blockchain development.  
   
+## About
+
+Senior engineer with 8+ years of experience building up web & blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
 
 
 ## Languages and Tool
@@ -37,14 +46,8 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br/>
 
-## Github  
-
-
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)  
   
-
 <h2 align="center">⚡ Stats</h2>
 <br>
 <p align=center>
