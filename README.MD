@@ -30,6 +30,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
 
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
 
 [![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/phantom0109/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
