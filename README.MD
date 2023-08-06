@@ -27,7 +27,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 [![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
-[![VueJS](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
 
 [![Flutter](https://img.shields.io/badge/flutter-02569B??style=flat&logo=flutter.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
 
