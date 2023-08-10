@@ -13,7 +13,7 @@
 
 <p align="center">
 
-  <a href="#">
+  <!-- <a href="#">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
   </a>
   <a href="#">
@@ -27,7 +27,7 @@
   </a>
   <a href="#">
     <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a>
+  </a> -->
 
   <!-- <a href="https://Tarun-Kamboj.github.io">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
