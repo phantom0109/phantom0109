@@ -8,7 +8,7 @@
 </h1>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Flutter+Engineer&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Flutter+Engineer;Senior+FullStack+Engineer&center=true&size=28">
   </a>
 </h1>
 
