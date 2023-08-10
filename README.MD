@@ -5,7 +5,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Flutter+Engineer&center=true&size=28&color=ff8a65">
   </a>
-  <br>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Flutter+Engineer;Senior+FullStack+Engineer&center=true&size=28&color=54AEFF">
   </a>
@@ -59,6 +59,24 @@
   
 
 - 💞️ I’m looking to collaborate on Blockchain development.  
+
+<h2 align="center">⚡ Stats</h2>
+
+<!-- <p align=center> -->
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
+<!-- </p> -->
+<div class="d-block", align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+  
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
+
+
+
+</div>
   
 ## About
 
@@ -91,20 +109,6 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br/>
   
-<h2 align="center">⚡ Stats</h2>
 
-<!-- <p align=center> -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
-<!-- </p> -->
-<div class="d-block", align="center">
-  
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
   
 
