@@ -90,8 +90,6 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br/>
-
-<br/>  
   
 <h2 align="center">⚡ Stats</h2>
 
@@ -106,7 +104,9 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
 
 ---
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_PROFILE_USERNAME&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Kittinan's github stats](https://github-readme-stats.vercel.app/api?username=kittinan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 </div>
   
 
