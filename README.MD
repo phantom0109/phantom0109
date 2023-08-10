@@ -13,7 +13,23 @@
 
 <p align="center">
   <br>
-  <a href="https://Tarun-Kamboj.github.io">
+  <a href="#">
+    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
+  </a>
+  <a href="#">
+    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
+  </a>
+  <a href="#">
+    <img height="40px" src="Images/Static/gmail.png" title="Mail">
+  </a>
+  <a href="#">
+    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
+  </a>
+  <a href="#">
+    <img height="40px" src="Images/Static/discord.png" title="Discord">
+  </a>
+
+  <!-- <a href="https://Tarun-Kamboj.github.io">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/kambojtarun">
@@ -27,7 +43,7 @@
   </a>
   <a href="https://discord.com/users/724826268645851157">
     <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a>
+  </a> -->
   <br>
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   
