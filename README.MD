@@ -96,7 +96,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 <!-- <p align=center> -->
   <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> --> 
 <!-- </p> -->
-<div class="d-block">
+<div class="d-block", align="center">
   
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
 
