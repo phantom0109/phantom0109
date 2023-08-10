@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior/Flutter+Engineer&center=true&size=24">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer&center=true&size=26">
   </a>
 </h1>
 
