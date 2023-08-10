@@ -67,7 +67,7 @@
 <!-- </p> -->
 <div class="d-block", align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
@@ -104,6 +104,8 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/) 
 <br>
 <br>
+
+## Usage Graph
 
 <div class="d-block", align="center">
 
