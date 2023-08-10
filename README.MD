@@ -10,6 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Flutter+Engineer;Senior+FullStack+Engineer&center=true&size=28">
   </a>
 </h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br>
