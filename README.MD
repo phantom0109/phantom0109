@@ -3,11 +3,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Flutter+Engineer&center=true&size=28&color=ff8a65">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer&color=54AEFF;Senior+Flutter+Engineer&center=true&size=28&color=ff8a65">
   </a>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Flutter+Engineer;Senior+FullStack+Engineer&center=true&size=28">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Flutter+Engineer&color=ff8a65;Senior+FullStack+Engineer&center=true&size=28&color=54AEFF">
   </a>
 </h1>
 
