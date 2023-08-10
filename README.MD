@@ -12,7 +12,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br>
   <a href="https://Tarun-Kamboj.github.io">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
