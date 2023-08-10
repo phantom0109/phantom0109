@@ -106,11 +106,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
 
 ---
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_PROFILE_USERNAME&theme=onedark&column=3&margin-w=15&margin-h=15)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 </div>
   
-
-<br/>  
-
-
-<br />
 
