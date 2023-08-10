@@ -12,7 +12,7 @@
 </h1>
 
 <p align="center">
-  <br>
+
   <a href="#">
     <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
   </a>
@@ -44,7 +44,7 @@
   <a href="https://discord.com/users/724826268645851157">
     <img height="40px" src="Images/Static/discord.png" title="Discord">
   </a> -->
-  <br>
+
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   
 </p>
