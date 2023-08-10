@@ -105,8 +105,10 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 ---
 </div>
+<p align=center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 
   
