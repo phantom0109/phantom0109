@@ -58,7 +58,9 @@
 - 🌱 Passionate about development and coding.  
   
 
-- 💞️ I’m looking to collaborate on Blockchain development.  
+- 💞️ I’m looking to collaborate on Blockchain/Artificial Intelligence development.  
+
+- ⭐ Everyone say that I was born for Flutter and React Native for android & iOS.
 
 <h2 align="center">⚡ Stats</h2>
 
