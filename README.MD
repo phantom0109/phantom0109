@@ -67,8 +67,8 @@
 <!-- </p> -->
 <div class="d-block", align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](#)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 </div>
@@ -109,7 +109,7 @@ Senior engineer with 8+ years of experience building up web & blockchain infrast
 
 <div class="d-block", align="center">
 
-<a href="#" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
   
 </div>
   
