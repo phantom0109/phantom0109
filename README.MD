@@ -52,7 +52,7 @@
 - 👈 I have expertise in smart contract and web3 integration.  
   
 
-- 👀 I’m interested in blockchain world.  
+- 👀 I’m interested in blockchain with Python & Golang world.  
   
 
 - 🌱 Passionate about development and coding.  
